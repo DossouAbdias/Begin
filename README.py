@@ -14,3 +14,5 @@ while jeuLance
       else :
            print( "Désolé ! commande introuvable")
 print("À bientôt...")
+
+"""POC: Proof of Concept"""
